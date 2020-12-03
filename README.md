@@ -19,10 +19,10 @@ https://github.com/smojip/pr-03-hodaDigit
     macro avg      0.97      0.97      0.97     30000
     weighted avg   0.97      0.97      0.97     30000
 
-![alt text](https://github.com/smojip/pr-03-hodaDigit/blob/main/01.jpg?raw=true)
+![alt text](https://github.com/smojip/pr-03-hodaDigit/blob/main/01.jpg)
 
 
-![alt text](https://github.com/smojip/pr-03-hodaDigit/blob/main/02.jpg?raw=true)
+![alt text](https://github.com/smojip/pr-03-hodaDigit/blob/main/02.jpg)
 
 
     Confusion matrix:
